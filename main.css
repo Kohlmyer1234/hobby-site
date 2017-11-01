@@ -1,0 +1,32 @@
+.banner_item{
+color:white;
+display:inline;
+}
+
+#banner{
+background-color:blue;
+}
+
+a{
+color:white;
+text-decoration:none;
+font-size:16pt;
+padding:5px;
+}
+
+Body{
+background-image:url("https://assets.change.org/photos/9/wb/lz/rKwBLzKGvxVTEdC-1600x900-noPad.jpg?1429302215");
+background-repeat: no-repeat;
+background-position: default; 
+background-attachment: fixed;
+}
+p{
+color:red;
+font-size:20pt;
+}
+h1{
+color:red;
+}
+h2{
+color:red;
+}
